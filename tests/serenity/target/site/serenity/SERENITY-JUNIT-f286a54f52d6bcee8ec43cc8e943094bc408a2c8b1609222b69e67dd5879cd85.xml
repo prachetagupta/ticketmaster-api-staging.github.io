@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="PD  oauth API" skipped="0" tests="1" time="4.92" timestamp="2017-09-262 04:48:03"><testcase name="(/products-and-docs/apis/oauth/) Verification for general page's elements"><failure message="expected:&lt;[GETTING STARTED]&gt; but was:&lt;[OAUTH API]&gt;" type="org.junit.ComparisonFailure">expected:&lt;[GETTING STARTED]&gt; but was:&lt;[OAUTH API]&gt;</failure><system-err>expected:&lt;[GETTING STARTED]&gt; but was:&lt;[OAUTH API]&gt;
+com.tkmdpa.taf.steps.products_and_docs.PD_OauthAPISteps.checkIfTitleIsCorrect(PD_OauthAPISteps.java:19)
+com.tkmdpa.taf.definitions.products_and_docs.PD_OauthAPIDefinition.checkGeneralPageElements(PD_OauthAPIDefinition.java:20)
+</system-err></testcase></testsuite>

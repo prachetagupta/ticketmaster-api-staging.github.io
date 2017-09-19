@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Feedback widget" skipped="0" tests="3" time="38.69" timestamp="2017-09-262 05:04:12"><testcase name="(feedback widget) Check that Feedback widget Elements are shown"/><testcase name="(feedback widget) [3.1.1 Feedback widget sanity]"/><testcase name="(feedback widget) Verification of allowed symbols in description"><error message="Timed out after 10 seconds. Element not available&#10;Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'&#10;System info: host: 'testing-gce-2b2f6572-d02c-4b61-b24f-831436bf1b95', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-93-generic', java.version: '1.8.0_144'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 10 seconds. Element not available
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'testing-gce-2b2f6572-d02c-4b61-b24f-831436bf1b95', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-93-generic', java.version: '1.8.0_144'
+Driver info: driver.version: unknown</error><system-err>Timed out after 10 seconds. Element not available
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'testing-gce-2b2f6572-d02c-4b61-b24f-831436bf1b95', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '4.4.0-93-generic', java.version: '1.8.0_144'
+Driver info: driver.version: unknown
+com.tkmdpa.taf.steps.site.AnyPageSteps.checkErrorEmailSentNotificationIsShown(AnyPageSteps.java:60)
+com.tkmdpa.taf.definitions.products_and_docs.PD_Tutorials_WidgetsDefinition.checkFeedbackWasNotSent(PD_Tutorials_WidgetsDefinition.java:128)
+</system-err></testcase></testsuite>
